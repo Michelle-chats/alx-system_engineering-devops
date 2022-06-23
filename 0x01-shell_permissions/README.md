@@ -1,1 +1,1 @@
-(1)create a script that switches the current user to betty, (2)
+This is a readme file for shell permission task
