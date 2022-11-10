@@ -2,10 +2,9 @@
 #displays numbers from 1 to 20
 
 t=1
-while [ $t -lt 21 ]
+while [ $t -lt 21 ] 
 do
 	case $t in
-
 		4)
 			echo $t
 			echo "bad luck from China"
@@ -19,7 +18,6 @@ do
 			echo $t
 			echo "badd luck from Italy"
 			;;
-	
 		*)
 			echo $t
 			;;
